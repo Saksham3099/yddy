@@ -1,0 +1,24 @@
+body{
+   text-align: center;
+    background-image: linear-gradient(aqua,green);
+    font-family: 'Cedarville Cursive', cursive;
+}
+#one,#two,#third,#fourth,#fifth,#sixth{
+    height:300px;
+    width: 300px;
+    font-family: font-family: 'Cedarville Cursive', cursive;
+}
+.first{
+    width: 700px;   
+}
+#myCarousel img{
+    width: 50px;
+    margin-top: 35px;
+    
+       }
+
+.carousel-inner {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+}
